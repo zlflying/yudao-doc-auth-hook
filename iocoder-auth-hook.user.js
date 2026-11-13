@@ -9,8 +9,8 @@
 // @run-at       document-start
 // @grant        none
 // @license MIT
-// @downloadURL  https://raw.githubusercontent.com/zlflying/yudao-doc-auth-hook/iocoder-auth-hook.user.js
-// @updateURL    https://raw.githubusercontent.com/zlflying/yudao-doc-auth-hook/iocoder-auth-hook.user.js
+// @downloadURL  https://raw.githubusercontent.com/zlflying/yudao-doc-auth-hook/blob/main/iocoder-auth-hook.user.js
+// @updateURL    https://raw.githubusercontent.com/zlflying/yudao-doc-auth-hook/blob/main/iocoder-auth-hook.user.js
 // ==/UserScript==
 
 (function () {
